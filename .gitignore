@@ -1,0 +1,15 @@
+
+node_modules/
+src/.vuepress/.cache/
+src/.vuepress/.temp/
+src/.vuepress/dist/
+# 忽略obsidian的配置文件和其他未打包的源文件
+src/.obsidian/  
+src/images
+src/life
+src/Reading
+src/product/
+src/posts
+src/Tech
+src/language Aquisition
+src/Excalidraw
